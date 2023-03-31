@@ -1,0 +1,9 @@
+.App {
+  min-height: 100vh;
+  font-size: 16px;
+  color: #4a4a4a;
+}
+
+@import './normalize.scss';
+@import './exchange-rate.scss';
+@import './currency-converter.scss';
