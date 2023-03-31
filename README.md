@@ -7,4 +7,5 @@ Technologies used:
 - SCSS: a CSS preprocessor that allows for easier styling and more efficient code
 - Bulma: a modern CSS framework based on Flexbox
 - ExchangeRate-API: a free API for retrieving currency exchange rates
+
 [Demo](https://anastasiia-khudych.github.io/currency-converter/)
